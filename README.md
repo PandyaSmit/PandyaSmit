@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/pandya-smit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pandya-smit" height="30" width="40" /></a>
 <a href="https://fb.com/smit.pandya.9889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="smit.pandya.9889" height="30" width="40" /></a>
 <a href="https://instagram.com/_smitz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_smitz_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@pandyasmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@pandyasmit" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@smitzpandya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@pandyasmit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
