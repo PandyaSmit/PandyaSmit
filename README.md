@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandyasmit" alt="pandyasmit" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/smitzpandya" target="blank"><img src="https://img.shields.io/twitter/follow/smitzpandya?logo=twitter&style=for-the-badge" alt="smitzpandya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/smitzpandya" target="blank"><img src="https://img.shields.io/twitter/follow/cyberpandz?logo=twitter&style=for-the-badge" alt="cyberpandz" /></a> </p>
 
 - 📫 How to reach me **smitpandya20@gmail.com**
 
