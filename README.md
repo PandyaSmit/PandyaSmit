@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/cyberpandz" target="blank"><img src="https://img.shields.io/twitter/follow/cyberpandz?logo=twitter&style=for-the-badge" alt="cyberpandz" /></a> </p>
 
-- 📫 How to reach me **smitpandya20@gmail.com**
+- 📫 How to reach me **smitpandya1099@gmail.com**
 
 ### Blogs posts
 
